@@ -436,5 +436,6 @@ form {
   }
   b {
     background: url(./assets/images/bg.jpg) no-repeat center/cover;
+    height: 100vh;
   }
 }
