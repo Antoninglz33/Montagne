@@ -434,4 +434,7 @@ form {
     font-size: 1rem;
     border: none;
   }
+  b {
+    background: url(./assets/images/bg.jpg) no-repeat center/cover;
+  }
 }
